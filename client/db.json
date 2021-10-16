@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "user1",
+      "password": "test1"
+    },
+    {
+      "id": 2,
+      "name": "user25585fgsdkj",
+      "password": "test2"
+    },
+    {
+      "id": 3,
+      "name": "user3",
+      "password": "test3"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John",
+      "surname": "Dow",
+      "email": "john-dow@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "surname": "Dow",
+      "email": "jane-dow@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Ian",
+      "surname": "Smith",
+      "email": "ian-smith@test.io"
+    },
+    {
+      "id": 4,
+      "name": "NR",
+      "surname": "zfdh",
+      "email": "test@test.com"
+    }
+  ]
+}
