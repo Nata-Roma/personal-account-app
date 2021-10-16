@@ -1,25 +1,44 @@
 ## Test task
 
-How to play
+### En:
+Personal account App
 
 The app needs in server to get and post data
-You can install the server to your computer globally 
-or create a small project which wll include only a server
 
-### For global installation:
+### For server installation:
 1. Install JSON Server via terminal/cmd
 ```npm install -g json-server```
+
 2. Start JSON Server
 ```json-server https://personal-account-react.netlify.app/db.json --port 4005```
-3. Open website
+Do not close terminal while working with application
+
+3. Open website application
 ```https://personal-account-react.netlify.app```
 
-### For local installation:
-1. Clone git repository via terminal/cmd
+4. Available auth users:
+- name: user1, password: test1
+- name: user25585fgsdkj, password: test2
+- name: user3, password: test3
 
-1. Install all dependencies
-```npm install```
-2. Run script
-```npm run serverout```
-3. Open website
+### Ru:
+Приложение личный кабинет
+
+Для работы приложения необходим сервер
+
+### Установка сервера:
+1. Установите сервер через терминал/cmd
+```npm install -g json-server```
+
+2. Запустите сервер
+```json-server https://personal-account-react.netlify.app/db.json --port 4005```
+Не закрывайте терминал, пока работаете с приложением
+
+3. Откройте сайт с приложением
 ```https://personal-account-react.netlify.app```
+
+4. Доступные пользователи для авторизации:
+- name: user1, password: test1
+- name: user25585fgsdkj, password: test2
+- name: user3, password: test3
+
